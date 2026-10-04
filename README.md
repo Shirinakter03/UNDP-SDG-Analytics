@@ -1,3 +1,5 @@
+**Live demo:**
+https://undp-sdg-analytics-5jmhuht64bmnybgwmzpkj9.streamlit.app
 # 🌍 UNDP SDG Analytics Dashboard
 
 An interactive data science dashboard analyzing UN Sustainable Development
